@@ -153,5 +153,15 @@ Attribures have three types of permissions:
 
 - Readable and writable / Not readable and writeable.
 
+The attributes may also require the following:
+
+- Authentication to read and write.
+
+- Authorization to read and write.
+
+- Encryption and pairing to read and write. 
+
+The attribute types and handles are public information. But the permissions are not.
+
 
 

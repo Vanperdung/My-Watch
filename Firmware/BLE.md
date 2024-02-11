@@ -112,3 +112,14 @@ Procedures:
 - Device discovery.
 - Link establishment.
 - Service discovery.
+
+# ATT
+
+BLE profiles expose a state of a device. The state is exposed as one or more values, are called attributes
+
+The protocol to access these attributes is called ATT.
+
+ATT defines the communication between two devices: 
+
+- Client: The device collect the information for one or more servers
+- Server: The device store data as one or more attributes.

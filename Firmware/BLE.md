@@ -123,3 +123,35 @@ ATT defines the communication between two devices:
 
 - Client: The device collect the information for one or more servers
 - Server: The device store data as one or more attributes.
+
+The client can access the server's attributes by sending the request message to this server. After that, the server will send back response message.
+
+To greater effeciency, the server send to client two types of unsolicited messages that contain attributes:
+
+- Notificaton: It is the message that does not require confirmation.
+- Indication: This message requires client send back a confirmation.
+
+## Attributes 
+
+Attribute's value is array can vary from 0 to 512 bytes. 
+
+All attributes have handles, which used to address an individual attribute. The client access to server's attribute by using handle. 
+
+All attributes also have UUID which is used to determine what the attribute value means.
+
+There are two types of UUID:
+
+- Global unique UUID: has 16-bit value, is described by SIG.
+
+- Manufacturer-specific UUID: has 128-bit value, which can be generated online.
+
+Attribures have three types of permissions:
+
+- Readable / Not readable.
+
+- Writable / Not writeable.
+
+- Readable and writable / Not readable and writeable.
+
+
+

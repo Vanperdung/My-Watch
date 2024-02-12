@@ -163,5 +163,33 @@ The attributes may also require the following:
 
 The attribute types and handles are public information. But the permissions are not.
 
+# GATT
+
+GATT is built on top of ATT.
+
+GATT also has two different roles: Client and Server (similar to ATT).
+
+GATT establishes common framework for data transported and stored.
+
+GATT server stores data transported over ATT and accept ATT requests from GATT client.
+
+GATT server will send response if configured. It will send notification and indication messages to GATT client when receiving ATT requests.
+
+In GATT, atrributes are format as services and characteristics. 
+
+Service is a collection of characteristics. Characteristic contains a single value and any number of descriptors that describe the chracteristic value. 
+
+In summarize, hierarchical structure in BLE:
+
+BLE profile -> Profile -> Service -> Characteristic and Descriptor. 
+
+BLE profile consists of one or more profiles. Each profile contains at least one element which contain one service.
+
+### Service 
+
+As mentioned above, service is a collection of characteristics. It uses to accomplish a specific function of a device rather than a complete use case.
+
+### Characteristic
+
 
 

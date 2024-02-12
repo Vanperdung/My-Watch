@@ -1,0 +1,58 @@
+I (27) boot: ESP-IDF v5.3-dev-1922-g5454d37d49 2nd stage bootloader
+I (27) boot: compile time Feb 12 2024 18:05:18
+I (27) boot: Multicore bootloader
+I (32) boot: chip revision: v0.1
+I (35) boot.esp32s3: Boot SPI Speed : 80MHz
+I (40) boot.esp32s3: SPI Mode       : DIO
+I (45) boot.esp32s3: SPI Flash Size : 16MB
+I (50) boot: Enabling RNG early entropy source...
+I (55) boot: Partition Table:
+I (59) boot: ## Label            Usage          Type ST Offset   Length
+I (66) boot:  0 nvs              WiFi data        01 02 00009000 00006000
+I (73) boot:  1 phy_init         RF data          01 01 0000f000 00001000
+I (81) boot:  2 factory          factory app      00 00 00010000 00100000
+I (88) boot: End of partition table
+I (93) esp_image: segment 0: paddr=00010020 vaddr=3c080020 size=24ae4h (150244) map
+I (128) esp_image: segment 1: paddr=00034b0c vaddr=3fc97500 size=03f94h ( 16276) load
+I (132) esp_image: segment 2: paddr=00038aa8 vaddr=40374000 size=07570h ( 30064) load
+I (140) esp_image: segment 3: paddr=00040020 vaddr=42000020 size=7c8f4h (510196) map
+I (234) esp_image: segment 4: paddr=000bc91c vaddr=4037b570 size=0bec8h ( 48840) load
+I (253) boot: Loaded app from partition at offset 0x10000
+I (253) boot: Disabling RNG early entropy source...
+I (264) cpu_start: Multicore app
+I (274) cpu_start: Pro cpu start user code
+I (274) cpu_start: cpu freq: 160000000 Hz
+I (274) cpu_start: Application information:
+I (277) cpu_start: Project name:     ble_ancs
+I (282) cpu_start: App version:      v5.3-dev-1922-g5454d37d49
+I (288) cpu_start: Compile time:     Feb 12 2024 18:05:09
+I (295) cpu_start: ELF file SHA256:  c8cc6e30e...
+I (300) cpu_start: ESP-IDF:          v5.3-dev-1922-g5454d37d49
+I (306) cpu_start: Min chip rev:     v0.0
+I (311) cpu_start: Max chip rev:     v0.99
+I (316) cpu_start: Chip rev:         v0.1
+I (321) heap_init: Initializing. RAM available for dynamic allocation:
+I (328) heap_init: At 3FC9F9A0 len 00049D70 (295 KiB): RAM
+I (334) heap_init: At 3FCE9710 len 00005724 (21 KiB): RAM
+I (340) heap_init: At 3FCF0000 len 00008000 (32 KiB): DRAM
+I (346) heap_init: At 600FE010 len 00001FD8 (7 KiB): RTCRAM
+I (354) spi_flash: detected chip: gd
+I (356) spi_flash: flash io: dio
+I (360) sleep: Configure to isolate all GPIO pins in sleep state
+I (367) sleep: Enable automatic switching of GPIO sleep configuration
+I (374) coexist: coex firmware version: 77cd7f8
+I (402) coexist: coexist rom version e7ae62f
+I (402) main_task: Started on CPU0
+I (403) main_task: Calling app_main()
+I (419) BLE_INIT: BT controller compile version [91980c2]
+I (421) BLE_INIT: Bluetooth MAC: 34:85:18:92:d6:1a
+I (422) phy_init: phy_version 640,cd64a1a,Jan 24 2024,17:28:12
+I (464) BLE_ANCS: app_main init bluetooth
+I (492) BLE_ANCS: REG_EVT
+W (494) BLE_ANCS: GAP_EVT, event 22
+W (496) BLE_ANCS: GAP_EVT, event 0
+W (497) BLE_ANCS: GAP_EVT, event 1
+W (500) BLE_ANCS: GAP_EVT, event 6
+I (501) BLE_ANCS: advertising start success
+I (503) main_task: Returned from app_main()
+

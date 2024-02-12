@@ -192,4 +192,7 @@ As mentioned above, service is a collection of characteristics. It uses to accom
 ### Characteristic
 
 
+### Reference Document
+[BLE fundamentals](https://www.silabs.com/documents/public/user-guides/ug103-14-fundamentals-ble.pdf)
+[Pairing steps](https://docs.silabs.com/bluetooth/6.0.0/bluetooth-fundamentals-connections/connection-flowcharts)
 

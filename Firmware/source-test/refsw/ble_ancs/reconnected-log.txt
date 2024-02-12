@@ -1,0 +1,501 @@
+I (484773) BLE_ANCS: ESP_GATTC_OPEN_EVT
+I (485013) addr: 7e 53 a0 84 56 06
+I (485013) BLE_ANCS: pair status = success
+I (487743) BLE_ANCS: ESP_GATTC_DIS_SRVC_CMPL_EVT
+I (487803) BLE_ANCS: ESP_GATTC_CFG_MTU_EVT, Status 0, MTU 500, conn_id 0
+I (487803) BLE_ANCS: ESP_GATTC_SEARCH_CMPL_EVT
+I (487803) BLE_ANCS: Find Apple control point char
+I (487813) BLE_ANCS: Find Apple noticification source char
+I (487813) BLE_ANCS: Find Apple data source char
+I (487963) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Social CategoryCount:1 NotificationUID:0
+I (487963) BLE_ANCS: Get detailed information
+I (487963) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Social CategoryCount:2 NotificationUID:1
+I (487973) BLE_ANCS: Get detailed information
+I (487983) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Social CategoryCount:3 NotificationUID:2
+I (487993) BLE_ANCS: Get detailed information
+I (487993) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Social CategoryCount:4 NotificationUID:3
+I (488003) BLE_ANCS: Get detailed information
+I (488013) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Social CategoryCount:5 NotificationUID:4
+I (488023) BLE_ANCS: Get detailed information
+I (488023) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Social CategoryCount:6 NotificationUID:5
+I (488033) BLE_ANCS: Get detailed information
+I (488043) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Other CategoryCount:1 NotificationUID:6
+I (488053) BLE_ANCS: Get detailed information
+I (488053) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Other CategoryCount:2 NotificationUID:7
+I (488063) BLE_ANCS: Get detailed information
+I (488073) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Other CategoryCount:3 NotificationUID:8
+I (488083) BLE_ANCS: Get detailed information
+I (488093) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Other CategoryCount:4 NotificationUID:9
+I (488103) BLE_ANCS: Get detailed information
+I (488103) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Location CategoryCount:1 NotificationUID:10
+I (488113) BLE_ANCS: Get detailed information
+I (488123) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Other CategoryCount:5 NotificationUID:11
+I (488133) BLE_ANCS: Get detailed information
+I (488133) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:BusinessAndFinance CategoryCount:1 NotificationUID:12
+I (488143) BLE_ANCS: Get detailed information
+I (488153) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Other CategoryCount:6 NotificationUID:13
+I (488163) BLE_ANCS: Get detailed information
+I (488163) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Other CategoryCount:7 NotificationUID:14
+I (488173) BLE_ANCS: Get detailed information
+I (488183) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Other CategoryCount:8 NotificationUID:15
+I (488193) BLE_ANCS: Get detailed information
+I (488203) BLE_ANCS: EventID:New message EventFlags:0x35 CategoryID:Other CategoryCount:9 NotificationUID:16
+I (488213) BLE_ANCS: Get detailed information
+I (488213) BLE_ANCS: EventID:New message EventFlags:0x35 CategoryID:Other CategoryCount:10 NotificationUID:17
+I (488223) BLE_ANCS: Get detailed information
+I (488233) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Social CategoryCount:7 NotificationUID:18
+I (488243) BLE_ANCS: Get detailed information
+I (488243) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:BusinessAndFinance CategoryCount:2 NotificationUID:19
+I (488253) BLE_ANCS: Get detailed information
+I (488263) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:BusinessAndFinance CategoryCount:3 NotificationUID:20
+I (488273) BLE_ANCS: Get detailed information
+I (488283) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:BusinessAndFinance CategoryCount:4 NotificationUID:21
+I (488293) BLE_ANCS: Get detailed information
+I (488293) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Location CategoryCount:2 NotificationUID:22
+I (488303) BLE_ANCS: Get detailed information
+I (488313) BLE_ANCS: EventID:New message EventFlags:0x15 CategoryID:Location CategoryCount:3 NotificationUID:23
+I (488323) BLE_ANCS: Get detailed information
+I (488323) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 0
+I (488333) Identifier: com.apple.Mobile
+I (488343) Identifier: SMS
+I (488343) Title: VIETTEL
+I (488343) Message: [TB] Uu dai V890
+I (488353) Message:  voi cuoc goi no
+I (488353) Message: i mang chi 890d/
+I (488363) Message: phut, cuoc goi n
+I (488363) Message: goai mang chi 1.
+I (488373) Message: 190d/phut; MIEN
+I (488373) Message: PHI dang ky. Tha
+I (488373) Message: m gia, soan V890
+I (488383) Message:  gui 191. Chi ti
+I (488383) Message: et LH 198 (0d).
+I (488393) Message: Tran trong.
+I (488393) MessageSize: 171
+I (488393) Date: 20240212T102339
+I (488403) NActionLabel: 58 c3 b3 61
+I (488403) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 1
+I (488413) Identifier: com.apple.Mobile
+I (488423) Identifier: SMS
+I (488423) Title: VIETTEL_QC
+I (488423) Message: [QC] Chỉ vài
+I (488433) Message: thao tác đơn
+I (488433) Message: giản, Quý kh�
+I (488443) Message: �ch có thể s�
+I (488443) Message: �� d���ng eSIM t
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (488443) Message: rên thiết b�
+I (488453) Message: � có hỗ trợ
+I (488453) Message:  eSIM mọi lúc
+I (488463) Message: , mọi nơi v�
+I (488463) Message: �i nhiều tính
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (488473) Message:  năng hấp d�
+I (488473) Message: �n. Truy cập M
+I (488473) Message: y Viettel tại
+I (488483) Message: https://myvt.pag
+I (488483) Message: e.link/eSim và
+I (488493) Message: vào mục …
+I (488493) MessageSize: 322
+I (488493) Date: 20240212T154316
+I (488503) NActionLabel: 58 c3 b3 61
+I (488503) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 2
+I (488513) Identifier: com.apple.Mobile
+I (488523) Identifier: SMS
+I (488523) Title: VIETTELPLUS
+I (488523) Message: Yeu cau cong die
+I (488533) Message: m Li xi Tet 2024
+I (488533) Message:  khong thanh con
+I (488543) Message: g do Quy Khach d
+I (488543) Message: a nhan Li xi. Ch
+I (488543) Message: i tiet LH 198. T
+I (488553) Message: ran trong.
+I (488553) MessageSize: 106
+I (488563) Date: 20240212T234457
+I (488563) NActionLabel: 58 c3 b3 61
+I (488563) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 3
+I (488573) Identifier: com.apple.Mobile
+I (488583) Identifier: SMS
+I (488583) Title: VIETTELPLUS
+I (488583) Message: Yeu cau cong die
+I (488593) Message: m Li xi Tet 2024
+I (488593) Message:  khong thanh con
+I (488603) Message: g do Quy Khach d
+I (488603) Message: a nhan Li xi. Ch
+I (488613) Message: i tiet LH 198. T
+I (488613) Message: ran trong.
+I (488613) MessageSize: 106
+I (488623) Date: 20240212T234359
+I (488623) NActionLabel: 58 c3 b3 61
+I (488633) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 4
+I (488633) Identifier: com.apple.Mobile
+I (488643) Identifier: SMS
+I (488643) Title: VIETTELPLUS
+I (488653) Message: Yeu cau cong die
+I (488653) Message: m Li xi Tet 2024
+I (488653) Message:  khong thanh con
+I (488663) Message: g do Quy Khach d
+I (488663) Message: a nhan Li xi. Ch
+I (488673) Message: i tiet LH 198. T
+I (488673) Message: ran trong.
+I (488683) MessageSize: 106
+I (488683) Date: 20240212T181122
+I (488683) NActionLabel: 58 c3 b3 61
+I (488693) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 5
+I (488703) Identifier: com.apple.Mobile
+I (488703) Identifier: SMS
+I (488703) Title: BO CONG AN
+I (488713) Message: [TB] Chúc mừn
+I (488713) Message: g năm mới Gi�
+I (488723) Message: �p Thìn 2024! N
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (488723) Message: gười dân ch�
+I (488733) Message: �� động sắp
+I (488733) Message:  xếp thời gi
+I (488733) Message: an trở lại n
+I (488743) Message: ơi làm việc
+I (488743) Message: và sinh sống
+I (488753) Message: tại các thàn
+I (488753) Message: h phố lớn, t
+I (488753) Message: ránh tình tr�
+I (488763) Message: �ng ��n t���c gi
+I (488763) Message: ao thông vào c
+I (488773) Message: uối dịp ngh�
+I (488773) Message: �� l���, tuy…
+I (488783) MessageSize: 337
+I (488783) Date: 20240212T201345
+I (488783) NActionLabel: 58 c3 b3 61
+I (488793) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 6
+I (488803) Identifier: com.microsoft.Of
+I (488803) Identifier: fice.Outlook
+I (488813) Title: quarantine@messa
+I (488813) Title: ging.microsoft.c
+I (488813) Title: om
+I (488823) Subtitle: Microsoft 365 se
+I (488823) Subtitle: curity: You have
+I (488833) Subtitle:  messages in qua
+I (488833) Subtitle: rantine
+I (488833) Message: Review These Mes
+I (488843) Message: sages 5 messages
+I (488843) Message:  are being held
+I (488853) Message: for you to revie
+I (488853) Message: w as of 2/12/202
+I (488853) Message: 4 3:41:09 AM (UT
+I (488863) Message: C). Review them
+I (488863) Message: within 7 days of
+I (488873) Message:  the received da
+I (488873) Message: te by going to t
+I (488883) Message: he Quarantine pa
+I (488883) Message: ge in the Securi
+I (488883) Message: ty Center. Preve
+I (488893) Message: nted spam messag
+I (488893) Message: es Sender: notif
+I (488903) Message: ica
+I (488903) MessageSize: 243
+I (488903) Date: 20240212T104542
+I (488913) NActionLabel: 58 c3 b3 61
+I (488913) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 7
+I (488923) Identifier: com.microsoft.Of
+I (488933) Identifier: fice.Outlook
+I (488933) Title: Lịch Outlook
+I (488933) Message: [BSPTEAM/MTH] FP
+I (488943) Message: T Daily Progress
+I (488943) Message:  Meeting
+@ 16:00
+I (488953) Message:  (trong 15 phút
+I (488953) Message: )
+Réunion Micro
+I (488953) Message: soft Teams
+I (488963) MessageSize: 90
+I (488963) Date: 20240212T154500
+I (488973) NActionLabel: 58 c3 b3 61
+I (488973) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 8
+I (488983) Identifier: com.microsoft.Of
+I (488983) Identifier: fice.Outlook
+I (488993) Title: Recommended Upda
+I (488993) Title: tes (Confluence)
+I (489003) Subtitle: [Confluence BBS]
+I (489003) Subtitle:  Recommended in
+I (489013) Subtitle: Confluence for N
+I (489013) Subtitle: guyen Van Dung -
+I (489013) Subtitle:  Feb 12, 2024
+I (489023) Message: Recommended in C
+I (489023) Message: onfluence Feb 12
+I (489033) Message: , 2024 • Go to
+I (489033) Message:  Confluence Most
+I (489033) Message:  Popular LGI | F
+I (489043) Message: 5685 LGE(B) Hnat
+I (489043) Message: iv Ivan Traffic
+I (489053) Message: routing In case
+I (489053) Message: of the multi VLA
+I (489063) Message: N setup the mana
+I (489063) Message: gement and voice
+I (489063) Message:  traffic is rout
+I (489073) Message: ed through mg0 (
+I (489073) Message: management) and
+I (489083) Message: voip0 (voice) in
+I (489083) Message: t
+I (489083) MessageSize: 241
+I (489093) Date: 20240212T191706
+I (489093) NActionLabel: 58 c3 b3 61
+I (489103) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 9
+I (489113) Identifier: com.apple.Screen
+I (489113) Identifier: TimeNotification
+I (489113) Identifier: s
+I (489123) Title: Có báo cáo h�
+I (489123) Title: �ng tuần
+I (489133) Message: Thời gian sử
+I (489133) Message:  dụng của b�
+I (489133) Message: ��n ��ã tăng l
+I (489143) Message: ên 27% trong tu
+I (489143) Message: ần trước, t
+I (489153) Message: rung bình 7 gi�
+I (489153) Message: ��, 37 phút/ng�
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (489163) Message: �y.
+I (489163) MessageSize: 115
+I (489163) Date: 20240212T091444
+I (489173) NActionLabel: 58 c3 b3 61
+I (489173) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 10
+I (489183) Identifier: com.google.Maps
+I (489183) Title: Trường THPT L
+I (489193) Title: ý Thái Tổ ·
+I (489193) Title:  Bạn biết đ
+I (489203) Title: ịa điểm nà
+I (489203) Title: y?
+I (489203) Message: Hãy trả lời
+I (489213) Message:  các câu hỏi
+I (489213) Message:  nhanh để gi�
+I (489223) Message: �p những ngư�
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (489223) Message: ��i khác
+I (489223) MessageSize: 73
+I (489233) Date: 20240212T073928
+I (489233) NActionLabel: 58 c3 b3 61
+I (489243) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 11
+I (489243) Identifier: com.google.Gmail
+I (489253) Title: Quora Digest
+I (489253) Subtitle: Why is C++ used
+I (489263) Subtitle: at all now that
+I (489263) Subtitle: a faster languag
+I (489273) Subtitle: e (Go) has been
+I (489273) Subtitle: created?
+I (489273) Message: Just wanted to t
+I (489283) Message: hrow in two cent
+I (489283) Message: s about binaries
+I (489293) Message:  from GO suppose
+I (489293) Message: dly being faster
+I (489303) Message:  than C++. Recen
+I (489303) Message: tly C++ compiler
+I (489303) Message:  made my jaw fal
+I (489313) Message: l to the floor.
+I (489313) Message: At my job I have
+I (489323) Message:  heard a riddle
+I (489323) Message: whether modern c
+I (489323) Message: ++… Top
+I (489333) MessageSize: 201
+I (489333) Date: 20240212T145433
+I (489343) NActionLabel: 58 c3 b3 61
+I (489343) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 12
+I (489353) Identifier: com.fpt.tpb.emob
+I (489353) Identifier: ile
+I (489363) Title: TPBank Mobile
+I (489363) Message: (TPBank): 12/02/
+I (489373) Message: 24;21:34
+TK: xxx
+I (489373) Message: x3529544
+PS:-35.
+I (489373) Message: 000VND
+SD: 423.1
+I (489383) Message: 98VND
+SD KHA DUN
+I (489383) Message: G: 423.198VND
+ND
+I (489393) Message: : Nguyen Van Dun
+I (489393) Message: g chuyen tien
+I (489403) MessageSize: 125
+I (489403) Date: 20240212T213514
+I (489403) NActionLabel: 58 c3 b3 61
+I (489413) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 13
+I (489423) Identifier: com.stepup.tofua
+I (489423) Identifier: pp
+I (489423) Title: Học tiếng An
+I (489433) Title: h không áp l�
+I (489433) Title: �c?
+I (489443) Message: Hãy dùng app T
+I (489443) Message: he Coach 😍
+I (489443) MessageSize: 29
+I (489453) Date: 20240212T084727
+I (489453) NActionLabel: 58 c3 b3 61
+I (489463) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 14
+I (489463) Identifier: com.stepup.tofua
+I (489473) Identifier: pp
+I (489473) Title: Học hay quên,
+I (489483) Title:  The Coach gọi
+I (489483) Title:  tên 🫠
+I (489483) Message: Kiến thức đ
+I (489493) Message: ã được họ
+I (489493) Message: c, bạn nhớ h
+I (489503) Message: ay đã quên?
+T
+I (489503) Message: hôi thì vào l
+I (489513) Message: uyện tập đ�
+I (489513) Message: �� trình độ
+I (489513) Message: đi lên 📈
+I (489523) MessageSize: 125
+I (489523) Date: 20240212T102051
+I (489533) NActionLabel: 58 c3 b3 61
+I (489533) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 15
+I (489543) Identifier: com.LazadaSEA.La
+I (489543) Identifier: zada
+I (489553) Title: #MÙNG3 Tết R�
+I (489553) Title: ��ng, ầm ầm
+I (489553) Title: may mắn
+I (489563) Message: 🎁Gửi bạn
+I (489563) Message: chút TÀI LỘC
+I (489573) Message:  từ Lazada️�
+I (489573) Message: ���Chốt đơn
+I (489583) Message: luôn được G
+I (489583) Message: IẢM GIÁ & FRE
+I (489583) Message: ESHIP💅Chọn
+I (489593) Message: DEAL "hợp mệ
+I (489593) Message: nh" với bạn
+I (489603) Message: ngay!
+I (489603) MessageSize: 149
+I (489603) Date: 20240212T114807
+I (489613) NActionLabel: 58 c3 b3 61
+I (489613) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 16
+I (489623) Identifier: com.LazadaSEA.La
+I (489633) Identifier: zada
+I (489633) Title: Xuất hiện Vo
+I (489633) Title: ucher của bạ
+I (489643) Title: n ở đây!👆
+I (489643) Message: ⚡Gom liền! T
+I (489653) Message: iết kiệm đ�
+I (489653) Message: ��n 11,000đ khi
+I (489653) Message:  áp dụng Vouc
+I (489663) Message: her chốt đơn
+I (489663) Message:  hôm nay. Nhanh
+I (489673) Message:  tay!
+I (489673) MessageSize: 101
+I (489673) Date: 20240212T115027
+I (489683) NActionLabel: 58 c3 b3 61
+I (489683) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 17
+I (489693) Identifier: com.LazadaSEA.La
+I (489703) Identifier: zada
+I (489703) Title: Còn 23 giờ La
+I (489703) Title: zFlashSale 14%
+I (489713) Message: ⏰Chỉ hôm na
+I (489713) Message: y, săn ngay k�
+I (489723) Message: �o l���!
+I (489723) MessageSize: 40
+I (489723) Date: 20240212T075311
+I (489733) NActionLabel: 58 c3 b3 61
+I (489733) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 18
+I (489743) Identifier: vn.com.vng.zinga
+I (489743) Identifier: lo
+I (489753) Title: Cô Bà
+I (489753) Message: Oki
+I (489753) MessageSize: 3
+I (489763) Date: 20240212T231034
+I (489763) NActionLabel: 58 c3 b3 61
+I (489773) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 19
+I (489783) Identifier: com.mservice.com
+I (489783) Identifier: .vn.MoMoTransfer
+I (489783) Title: 3 ngày Tết c�
+I (489793) Title: �ng tất bật
+I (489793) Title: Dũng nhỉ
+I (489803) Message: Giờ nghỉ ng�
+I (489803) Message: �i v��o L���c X�
+I (489803) Message: � ch��i cho vui,
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (489813) Message:  lần đầu ch
+I (489813) Message: ơi có ngay lì
+I (489823) Message:  xì đến 2,02
+I (489823) Message: 4K. Chơi ngay!
+I (489833) MessageSize: 111
+I (489833) Date: 20240212T214707
+I (489833) NActionLabel: 58 c3 b3 61
+I (489843) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 20
+I (489853) Identifier: com.viettel.viet
+I (489853) Identifier: telpay
+I (489853) Title: 💥 Quá trời
+I (489863) Title: !!! Hoàn tới
+I (489863) Title: 10%
+I (489873) Message: 💸 Deal siêu
+I (489873) Message: ngon sao chưa m
+I (489873) Message: ở app nạp đ
+I (489883) Message: iện thoại ng
+I (489883) Message: ay bạn ơi!
+Đ
+I (489893) Message: ừng quên:
+�
+I (489893) Message: �� Thanh toán b
+I (489903) Message: ằng tài kho�
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (489903) Message: �n Mobile Money
+I (489903) Message: nhé!
+I (489913) MessageSize: 149
+I (489913) Date: 20240212T161523
+I (489913) NActionLabel: 58 c3 b3 61
+I (489923) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 21
+I (489933) Identifier: com.viettel.viet
+I (489933) Identifier: telpay
+I (489943) Title: 💥 Quá trời
+I (489943) Title: !!! Hoàn tới
+I (489943) Title: 10%
+I (489953) Message: 💸 Deal siêu
+I (489953) Message: ngon sao chưa m
+I (489963) Message: ở app nạp đ
+I (489963) Message: iện thoại ng
+I (489963) Message: ay bạn ơi!
+Đ
+I (489973) Message: ừng quên:
+�
+I (489973) Message: �� Thanh toán b
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (489983) Message: ằng tài kho�
+I (489983) Message: �n Mobile Money
+I (489993) Message: nhé!
+I (489993) MessageSize: 149
+I (489993) Date: 20240212T105741
+I (490003) NActionLabel: 58 c3 b3 61
+I (490003) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 22
+I (490013) Identifier: com.grabtaxi.iph
+I (490023) Identifier: one
+I (490023) Title: 2 ngày nữa l�
+I (490023) Title: � Valentine - Y�
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (490033) Title: �u xa vẫn có
+I (490033) Title: hoa quà!
+I (490033) Message: 💚 Có yêu xa
+I (490043) Message: , vẫn có th�
+I (490043) Message: � đ���t hoa qu�
+I (490053) Message: � tr��n GrabMart
+I (490053) Message:  nhờ chức n�
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+I (490063) Message: �ng Tặng quà
+I (490063) Message: khác thành ph�
+I (490063) Message: ��.
+Multiple decode errors occured: Try checking the baud rate and XTAL frequency setting in menuconfig
+🌺 Dẫu c
+I (490073) Message: ó vui Tết, c�
+I (490073) Message: �ng ��ừng quê
+I (490083) Message: n yêu
+I (490083) MessageSize: 166
+I (490083) Date: 20240212T094708
+I (490093) NActionLabel: 58 c3 b3 61
+I (490093) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 23
+I (490103) Identifier: com.grabtaxi.iph
+I (490113) Identifier: one
+I (490113) Title: 🐉 Mồng 3 đ
+I (490113) Title: i đâu Grab cũ
+I (490123) Title: ng bao rẻ
+I (490123) Message: 🚗🛵 Nhập
+I (490133) Message: mã BAORE giảm
+I (490133) Message:  50% tối đa 5
+I (490133) Message: 0.000đ
+👉 Đ�
+I (490143) Message: ��t xe ngay
+I (490143) MessageSize: 75
+I (490153) Date: 20240212T004602
+I (490153) NActionLabel: 58 c3 b3 61

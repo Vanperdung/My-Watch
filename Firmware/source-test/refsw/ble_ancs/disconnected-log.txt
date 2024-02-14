@@ -1,0 +1,6 @@
+I (405843) BLE_ANCS: ESP_GATTC_SRVC_CHG_EVT, bd_addr:
+I (405843) BLE_ANCS: 7e 53 a0 84 56 06
+W (405873) BT_APPL: gattc_conn_cb: if=3 st=0 id=3 rsn=0x13
+W (405873) BT_HCI: hcif disc complete: hdl 0x1, rsn 0x13
+I (405873) BLE_ANCS: ESP_GATTC_DISCONNECT_EVT, reason = 0x13
+I (405883) BLE_ANCS: advertising start success

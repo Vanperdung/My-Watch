@@ -1,0 +1,16 @@
+
+I (4729) BLE_ANCS: ESP_GATTC_OPEN_EVT
+W (6826) BT_SMP: FOR LE SC LTK IS USED INSTEAD OF STK
+W (7011) BLE_ANCS: GAP_EVT, event 9
+W (7012) BLE_ANCS: GAP_EVT, event 9
+W (7012) BLE_ANCS: GAP_EVT, event 9
+W (7071) BLE_ANCS: GAP_EVT, event 9
+W (7094) BLE_ANCS: GAP_EVT, event 8
+I (7095) addr: 7e 53 a0 84 56 06
+I (7095) BLE_ANCS: pair status = success
+I (7548) BLE_ANCS: ESP_GATTC_DIS_SRVC_CMPL_EVT
+I (7608) BLE_ANCS: ESP_GATTC_CFG_MTU_EVT, Status 0, MTU 500, conn_id 0
+I (7609) BLE_ANCS: ESP_GATTC_SEARCH_CMPL_EVT
+I (7610) BLE_ANCS: Find Apple control point char
+I (7615) BLE_ANCS: Find Apple noticification source char
+I (7621) BLE_ANCS: Find Apple data source char

@@ -1,0 +1,17 @@
+I (215363) BLE_ANCS: EventID:Removed message EventFlags:0x10 CategoryID:Social CategoryCount:5 NotificationUID:4
+I (224453) BLE_ANCS: EventID:New message EventFlags:0x10 CategoryID:Social CategoryCount:6 NotificationUID:26
+I (224453) BLE_ANCS: Get detailed information
+I (224513) BLE_ANCS: recevice Notification Attributes response Command_id 0 NotificationUID 26
+I (224513) Identifier: com.apple.Mobile
+I (224523) Identifier: SMS
+I (224523) Title: VIETTELPLUS
+I (224523) Message: Yeu cau cong die
+I (224533) Message: m Li xi Tet 2024
+I (224533) Message:  khong thanh con
+I (224543) Message: g do Quy Khach d
+I (224543) Message: a nhan Li xi. Ch
+I (224543) Message: i tiet LH 198. T
+I (224553) Message: ran trong.
+I (224553) MessageSize: 106
+I (224563) Date: 20240212T234359
+I (224563) NActionLabel: 58 c3 b3 61

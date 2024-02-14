@@ -1,0 +1,3 @@
+I (66923) BLE_ANCS: EventID:Removed message EventFlags:0x18 CategoryID:MissedCall CategoryCount:2 NotificationUID:0
+I (66923) BLE_ANCS: EventID:Removed message EventFlags:0x18 CategoryID:MissedCall CategoryCount:1 NotificationUID:1
+I (66933) BLE_ANCS: EventID:Removed message EventFlags:0x18 CategoryID:MissedCall CategoryCount:0 NotificationUID:2

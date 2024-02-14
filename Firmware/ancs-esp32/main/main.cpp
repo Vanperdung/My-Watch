@@ -1,4 +1,3 @@
-// #include <stdio.h>
 #include <iostream>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
